@@ -5,7 +5,7 @@
 
 <!--
     XSLT Style sheet for transforming Ulysses Content.xml to Multimarkdown
-    (c) MIT 2014, RoyRogers56
+    (c) MIT 2016, @rovest
     Not for commercial use, but free for personal use, on your own risk.
     Version 1.1, 2015-01-13 at 21:44 IST
     Added "search-and-replace" template, for unicode-LF (&#x2028;) -> "2 x space + LF"
